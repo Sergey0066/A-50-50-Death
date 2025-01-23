@@ -1,4 +1,6 @@
 # A-50-50-Death
+Download the exe from github and play the 50/50 game!
+
 Launch the app and find out if the computer will survive or not. The application calculates the hash, loading the PC. A Mining simulator
 
 The application has an end, and once it reaches it, mining will end. Play a deadly game! But if the PC fails, you will have to reboot it. 💀
