@@ -5,10 +5,10 @@ Launch the app and find out if the computer will survive or not. The application
 
 The application has an end, and once it reaches it, mining will end. Play a deadly game! But if the PC fails, you will have to reboot it. 💀
 
-Added versions for a more challenging 60/40 game. The application will use resources more significantly and will remain on your PC for a long time!
+Added versions for a more 60/40 game. The application will use resources more significantly and will remain on your PC for a long time!
 
 The deadly version of F_80_20_Death is the worst thing your computer can survive. Maximum workload and integration into processes. If your PC passes the game, it is equal to a nuclear reactor!
-You can call it the last game on your PC) 🔥
+You can call it the last game on your PC) GoodLuck! 🔥
 
 ## Help you:
 - I'm not mining cryptocurrency, it's a joke emulator.
